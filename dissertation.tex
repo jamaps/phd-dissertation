@@ -1,0 +1,217 @@
+\documentclass[11 pt, letterpaper]{report}
+
+\usepackage[margin=1.25in]{geometry}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{csquotes}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{colortbl}
+\SetBlockEnvironment{quotation}
+%\usepackage[hidelinks]{hyperref}
+\usepackage{url}
+\usepackage{authblk}
+\usepackage{adjustbox}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{svg}
+\usepackage{multirow}
+\usepackage{chngpage}
+\doublespacing
+\usepackage{graphicx}
+\usepackage[format=plain,
+            labelfont=bf]{caption}
+
+\usepackage[sc]{mathpazo}
+
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	citecolor=black,
+	urlcolor=black
+}
+
+\usepackage{apacite}
+
+
+
+
+
+\begin{document}
+	
+{\begin{titlepage}
+		\large
+		\singlespacing
+		\begin{center}
+			\mbox{}
+			\vfill
+			\textsc{Title}\\
+			\vfill
+			by \\
+			\vfill
+			{Jeff Allen}\\
+			\vfill
+			\vfill
+			A thesis submitted in conformity with the requirements \\
+			for the degree of PhD  \\
+			Department of Geography and Planning \\
+			University of Toronto \\
+			\vfill
+			{\copyright} Copyright 2022 by Jeff Allen\\
+			\vspace{.01\textheight}
+			\mbox{}
+		\end{center}
+		\setcounter{page}{1}
+	\end{titlepage}
+	\setcounter{page}{2}}
+
+
+
+
+
+
+\renewcommand{\thepage}{\roman{page}}%
+
+\newpage
+
+
+
+\begin{center}
+\section*{Abstract}
+	\addcontentsline{toc}{section}{Abstract}
+	\singlespacing
+	{Title}\\[2ex]
+	{Jeff Allen}\\
+	{Master of Arts}\\
+	Department of Geography and Planning\\
+	University of Toronto\\
+	{2022}\\
+\end{center}
+Insert abstract here
+
+
+
+\vspace{12mm}
+
+
+
+\newpage
+
+
+\chapter*{\Large{Acknowledgements}}
+
+\addcontentsline{toc}{section}{Acknowledgements}
+
+
+
+
+
+The Data Management Group and the Travel Modelling Group at the University of Toronto graciously provided the travel survey data and travel time matrices, respectively. 
+
+OpenStreetMap contributors and all those who build open source software used during analyses.
+
+I would also like to thank Matthew Palm who provided excellent feedback on an earlier draft of Chapter 2.
+
+Nate Wessel, Mischa Young, Amber De John, and Matthew Palm. 
+
+Committee members
+
+Steve Farber.
+
+RDC staff and data
+
+SSHRC scholarship. U of T moneys, SF money
+
+Sarah, mum
+
+
+\newpage
+
+
+
+
+
+\tableofcontents
+
+\addcontentsline{toc}{section}{Table of Contents}
+
+\newpage
+
+
+
+
+
+
+\addcontentsline{toc}{section}{List of Figures}
+
+\listoffigures
+
+\newpage
+
+
+\addcontentsline{toc}{section}{List of Tables}
+
+\listoftables
+
+
+
+\newpage
+
+
+\chapter*{Preface}
+
+\addcontentsline{toc}{section}{Preface}
+
+This dissertation can be read as a complete and coherent document, however Chapters 2, 3, \& 4 were originally written as separate articles to be published in peer-reviewed academic journals. As such, there is some redundancy in the introductory material, literature reviews, and methods sections of each. 
+
+At the time of writing, Chapter 2 has been published in the Annals of the AAG \cite{allen_suburbanization_2021}; Chapter 3 is under review at Environment and Planning A; and Chapter 4 is under review at the Journal of Transport and Land Use. I am first author on each of these publications and take full responsibility for omissions or errors in the analysis. 
+
+As each of the chapters provides some of its own context, the goal of Chapter 1 of this dissertation is to frame the issues motivating this research as a coherent body of work. Similarly, Chapter 5 serves to tie together the results of each article into broader implications and to suggest future lines of research. 
+
+
+
+\newpage
+
+
+\renewcommand{\thepage}{\arabic{page}}% Arabic numerals for page counter
+\setcounter{page}{1}
+
+
+\chapter{{Introduction}}
+
+
+\input{chapters/1_intro.tex}
+
+
+\chapter{Suburbanization of Transport Poverty}
+
+\input{chapters/2_subtrapov.tex}
+
+
+\chapter{Conclusion}
+
+
+
+
+\bibliographystyle{apacite}
+\bibliography{ref.bib}
+
+\newpage
+
+%\nocite{*}
+
+
+
+
+%\newpage
+%
+%\chapter{Appendix}
+%
+%\section{Appendix of Maps}
+%
+%\subsection{Choropleths of transit access to employment and low income households}
+%
+%meow
+
+\end{document}

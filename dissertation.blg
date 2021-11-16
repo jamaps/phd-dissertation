@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dissertation.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 11432 items from 5000.
+Database file #1: ref.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No address in blais_planning_2018
+Warning--No school in dejohn_transit_2019
+Warning--No journal in el-geneidy_access_2006
+Warning--No journal in klein_desperately_2020
+Warning--No institution in wegener_land-use_2004
+Warning--No address in wegener_land-use_2004
+Warning--No school in xu_good_2018
+You've used 134 entries,
+            6951 wiz_defined-function locations,
+            1994 strings with 35028 characters,
+and the built_in function-call counts, 269386 in all, are:
+= -- 32928
+> -- 2014
+< -- 14452
++ -- 14293
+- -- 273
+* -- 18104
+:= -- 52269
+add.period$ -- 550
+call.type$ -- 134
+change.case$ -- 2318
+chr.to.int$ -- 0
+cite$ -- 275
+duplicate$ -- 6672
+empty$ -- 9900
+format.name$ -- 3331
+if$ -- 49796
+int.to.chr$ -- 0
+int.to.str$ -- 406
+missing$ -- 0
+newline$ -- 3349
+num.names$ -- 1076
+pop$ -- 3722
+preamble$ -- 1
+purify$ -- 556
+quote$ -- 0
+skip$ -- 16914
+stack$ -- 0
+substring$ -- 15327
+swap$ -- 3960
+text.length$ -- 315
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 11168
+warning$ -- 7
+while$ -- 1149
+width$ -- 0
+write$ -- 4126
+(There were 7 warnings)
