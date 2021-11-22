@@ -5,21 +5,21 @@
 \contentsline {section}{List of Tables}{vii}{chapter*.4}%
 \contentsline {section}{Preface}{viii}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}{Introduction}}{1}{chapter.1}%
-\contentsline {chapter}{\numberline {2}A Brief History of Changing Cities}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}A Century of Suburbanization}{5}{section.2.1}%
-\contentsline {section}{\numberline {2.2}The Changing Social Geography of Cities}{10}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Neighbourhood Effects \& Daily Activity Behaviour}{18}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Transportation Planning \& Demographic Change}{24}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Suburbanization of Transport Poverty}{29}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Introduction}{30}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Background}{31}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Study Area and Data}{35}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Data Sources}{35}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Measuring Social Disadvantage}{37}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Measuring Transport Disadvantage}{40}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Analysis and Results}{44}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Spatio-temporal Analysis}{44}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Suburbanization of Transport Poverty}{50}{subsection.3.4.2}%
-\contentsline {section}{\numberline {3.5}Conclusions}{54}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Conclusion}{59}{chapter.4}%
-\contentsline {chapter}{References}{60}{chapter*.24}%
+\contentsline {chapter}{\numberline {2}Background}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}A Century of Suburbanization}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}The Changing Social Geography of Cities}{11}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Neighbourhood Effects \& Daily Activity Behaviour}{19}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Transportation Planning \& Demographic Change}{25}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Suburbanization of Transport Poverty}{30}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{31}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Background}{32}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Study Area and Data}{36}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Data Sources}{36}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Measuring Social Disadvantage}{38}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Measuring Transport Disadvantage}{41}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Analysis and Results}{45}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Spatio-temporal Analysis}{45}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Suburbanization of Transport Poverty}{51}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Conclusions}{55}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Conclusion}{60}{chapter.4}%
+\contentsline {chapter}{References}{61}{chapter*.24}%
