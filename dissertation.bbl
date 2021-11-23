@@ -62,6 +62,63 @@ Ades, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Airgood-Obrycki}%
+}{%
+{Airgood-Obrycki}%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+airgood-obrycki_suburban_2019}
+\APACinsertmetastar {%
+airgood-obrycki_suburban_2019}%
+\begin{APACrefauthors}%
+{Airgood-Obrycki}, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Suburban Status and Neighbourhood Change} {Suburban
+  status and neighbourhood change}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Urban Studies}{56}{14}{2935--2952}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0042098018811724} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Albouy%
+, Chernoff%
+, Lutz%
+\BCBL {}\ \BBA {} Warman%
+}{%
+Albouy%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+albouy_local_2019}
+\APACinsertmetastar {%
+albouy_local_2019}%
+\begin{APACrefauthors}%
+Albouy, D.%
+, Chernoff, A.%
+, Lutz, C.%
+\BCBL {}\ \BBA {} Warman, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Local {{Labor Markets}} in {{Canada}} and the {{United
+  States}}} {Local {{Labor Markets}} in {{Canada}} and the {{United
+  States}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Labor Economics}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1086/703579} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Allen%
 \ \BBA {} Farber%
 }{%
@@ -324,6 +381,30 @@ Ashby, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Atkinson%
+}{%
+Atkinson%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+atkinson_measuring_2000}
+\APACinsertmetastar {%
+atkinson_measuring_2000}%
+\begin{APACrefauthors}%
+Atkinson, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring Gentrification and Displacement in {{Greater
+  London}}} {Measuring gentrification and displacement in {{Greater
+  London}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Urban studies}{37}{1}{149--165}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 August%
 }{%
 August%
@@ -509,6 +590,34 @@ baum-snow_did_2007}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Berger%
+, Farrar%
+\BCBL {}\ \BBA {} Zhang%
+}{%
+Berger%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+berger_empirical_2019}
+\APACinsertmetastar {%
+berger_empirical_2019}%
+\begin{APACrefauthors}%
+Berger, L.%
+, Farrar, J.%
+\BCBL {}\ \BBA {} Zhang, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {An {{Empirical Analysis}} of the {{Displacement Effect}}
+  of {{TFSAs}} on {{RRSPs}}} {An {{Empirical Analysis}} of the {{Displacement
+  Effect}} of {{TFSAs}} on {{RRSPs}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Canadian Tax Journal}{67}{}{309}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Blais%
 }{%
 Blais%
@@ -643,6 +752,29 @@ Bolton, K.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Booth%
+}{%
+Booth%
+}{%
+{\protect \APACyear {1902}}%
+}]{%
+booth_life_1902}
+\APACinsertmetastar {%
+booth_life_1902}%
+\begin{APACrefauthors}%
+Booth, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1902}.
+\newblock
+\APACrefbtitle {Life and Labour of the People in {{London}}} {Life and labour
+  of the people in {{London}}}.
+\newblock
+\APACaddressPublisher{}{{Macmillan and Company, LTD}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Bourne%
 }{%
 Bourne%
@@ -696,6 +828,32 @@ Bourne, L\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Boyd%
+\ \BBA {} Vickers%
+}{%
+Boyd%
+\ \BBA {} Vickers%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+boyd_100_2000}
+\APACinsertmetastar {%
+boyd_100_2000}%
+\begin{APACrefauthors}%
+Boyd, M.%
+\BCBT {}\ \BBA {} Vickers, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {100 Years of Immigration in {{Canada}}} {100 years of
+  immigration in {{Canada}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Canadian Social Trends}{}{11}{12}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Breau%
 }{%
 Breau%
@@ -745,6 +903,35 @@ Breau, S.%
   income disparities in {{Canadian}} cities}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Geographical Systems}{20}{1}{1--25}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brown%
+\ \BBA {} Tarasuk%
+}{%
+Brown%
+\ \BBA {} Tarasuk%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+brown_money_2019}
+\APACinsertmetastar {%
+brown_money_2019}%
+\begin{APACrefauthors}%
+Brown, E\BPBI M.%
+\BCBT {}\ \BBA {} Tarasuk, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Money Speaks: Reductions in Severe Food Insecurity
+  Follow the {{Canada Child Benefit}}} {Money speaks: Reductions in severe food
+  insecurity follow the {{Canada Child Benefit}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Preventive Medicine}{129}{}{105876}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.ypmed.2019.105876} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1106,6 +1293,154 @@ Delmelle, E.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Delmelle%
+\ \BBA {} Nilsson%
+}{%
+Delmelle%
+\ \BBA {} Nilsson%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+delmelle_new_2020}
+\APACinsertmetastar {%
+delmelle_new_2020}%
+\begin{APACrefauthors}%
+Delmelle, E.%
+\BCBT {}\ \BBA {} Nilsson, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {New Rail Transit Stations and the Out-Migration of
+  Low-Income Residents} {New rail transit stations and the out-migration of
+  low-income residents}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Urban Studies}{57}{1}{134--151}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0042098019836631} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Denton%
+, Spencer%
+\BCBL {}\ \BBA {} Yip%
+}{%
+Denton%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+denton_age-income_2019}
+\APACinsertmetastar {%
+denton_age-income_2019}%
+\begin{APACrefauthors}%
+Denton, F\BPBI T.%
+, Spencer, B\BPBI G.%
+\BCBL {}\ \BBA {} Yip, T\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{01}}}{}.
+\newblock
+\APACrefbtitle {Age-{{Income Dynamics Over The Life Course}}: Cohort
+  {{Transition Patterns In Relative Income Based On Canadian Tax Returns}}}
+  {Age-{{Income Dynamics Over The Life Course}}: Cohort {{Transition Patterns
+  In Relative Income Based On Canadian Tax Returns}}}\ \APACbVolEdTR{}{\BTR{}\
+  \BNUM\ 2019-02}.
+\newblock
+\APACaddressInstitution{}{{McMaster University}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ding%
+, Hwang%
+\BCBL {}\ \BBA {} Divringi%
+}{%
+Ding%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+ding_gentrification_2016}
+\APACinsertmetastar {%
+ding_gentrification_2016}%
+\begin{APACrefauthors}%
+Ding, L.%
+, Hwang, J.%
+\BCBL {}\ \BBA {} Divringi, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Gentrification and Residential Mobility in
+  {{Philadelphia}}} {Gentrification and residential mobility in
+  {{Philadelphia}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Regional Science and Urban Economics}{61}{}{38--51}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.regsciurbeco.2016.09.004} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dragan%
+, Ellen%
+\BCBL {}\ \BBA {} Glied%
+}{%
+Dragan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+dragan_does_2019}
+\APACinsertmetastar {%
+dragan_does_2019}%
+\begin{APACrefauthors}%
+Dragan, K.%
+, Ellen, I.%
+\BCBL {}\ \BBA {} Glied, S\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{05}}}{}.
+\newblock
+\APACrefbtitle {Does {{Gentrification Displace Poor Children}}? New
+  {{Evidence}} from {{New York City Medicaid Data}}} {Does {{Gentrification
+  Displace Poor Children}}? new {{Evidence}} from {{New York City Medicaid
+  Data}}}\ \APACbVolEdTR{}{\BTR{}\ \BNUM\ w25809}.
+\newblock
+\APACaddressInstitution{}{{National Bureau of Economic Research}}.
+\newblock
+\begin{APACrefDOI} \doi{10.3386/w25809} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duncan%
+\ \BBA {} Duncan%
+}{%
+Duncan%
+\ \BBA {} Duncan%
+}{%
+{\protect \APACyear {1955}}%
+}]{%
+duncan_methodological_1955}
+\APACinsertmetastar {%
+duncan_methodological_1955}%
+\begin{APACrefauthors}%
+Duncan, O\BPBI D.%
+\BCBT {}\ \BBA {} Duncan, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1955}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A {{Methodological Analysis}} of {{Segregation
+  Indexes}}} {A {{Methodological Analysis}} of {{Segregation Indexes}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Sociological Review}{20}{2}{210--217}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/2088328} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Ehrenhalt%
 }{%
 Ehrenhalt%
@@ -1189,6 +1524,36 @@ el-geneidy_access_2006}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Elliott-Cooper}%
+, Hubbard%
+\BCBL {}\ \BBA {} Lees%
+}{%
+{Elliott-Cooper}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+elliott-cooper_moving_2020}
+\APACinsertmetastar {%
+elliott-cooper_moving_2020}%
+\begin{APACrefauthors}%
+{Elliott-Cooper}, A.%
+, Hubbard, P.%
+\BCBL {}\ \BBA {} Lees, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Moving beyond {{Marcuse}}: Gentrification, Displacement
+  and the Violence of Un-Homing} {Moving beyond {{Marcuse}}: Gentrification,
+  displacement and the violence of un-homing}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Progress in Human Geography}{44}{3}{492--509}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0309132519830511} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Ewing%
 \ \BBA {} Cervero%
 }{%
@@ -1213,6 +1578,33 @@ Ewing, R.%
 \newblock
 \APACjournalVolNumPages{Journal of the American planning
   association}{76}{3}{265--294}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ewing%
+\ \BBA {} Hamidi%
+}{%
+Ewing%
+\ \BBA {} Hamidi%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+ewing2014measuring}
+\APACinsertmetastar {%
+ewing2014measuring}%
+\begin{APACrefauthors}%
+Ewing, R.%
+\BCBT {}\ \BBA {} Hamidi, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring Urban Sprawl and Validating Sprawl Measures}
+  {Measuring urban sprawl and validating sprawl measures}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Washington, DC: National Institutes of Health and Smart
+  Growth America}{}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1338,6 +1730,38 @@ Farber, S.%
 
 \bibitem [\protect \citeauthoryear {%
 Farber%
+\ \protect \BOthers {.}}{%
+Farber%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+farber_transportation_2018}
+\APACinsertmetastar {%
+farber_transportation_2018}%
+\begin{APACrefauthors}%
+Farber, S.%
+, Mifsud, A.%
+, Allen, J.%
+, Widener, M\BPBI J.%
+, Newbold, K\BPBI B.%
+\BCBL {}\ \BBA {} Moniruzzaman, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{04}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Transportation Barriers to {{Syrian}} Newcomer
+  Participation and Settlement in {{Durham Region}}} {Transportation barriers
+  to {{Syrian}} newcomer participation and settlement in {{Durham
+  Region}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Transport Geography}{68}{}{181--192}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jtrangeo.2018.03.014} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Farber%
 \ \BBA {} P{\'a}ez%
 }{%
 Farber%
@@ -1362,6 +1786,33 @@ Farber, S.%
   participation}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Transport Geography}{17}{3}{216--225}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Farber%
+\ \BBA {} P{\'a}ez%
+}{%
+Farber%
+\ \BBA {} P{\'a}ez%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+farber_running_2011}
+\APACinsertmetastar {%
+farber_running_2011}%
+\begin{APACrefauthors}%
+Farber, S.%
+\BCBT {}\ \BBA {} P{\'a}ez, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Running to Stay in Place: The Time-Use Implications of
+  Automobile Oriented Land-Use and Travel} {Running to stay in place: The
+  time-use implications of automobile oriented land-use and travel}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Transport Geography}{19}{4}{782--793}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1422,6 +1873,30 @@ Fransen, K.%
   activities}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Travel behaviour and society}{10}{}{10--20}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Freeman%
+}{%
+Freeman%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+freeman_displacement_2005}
+\APACinsertmetastar {%
+freeman_displacement_2005}%
+\begin{APACrefauthors}%
+Freeman, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Displacement or Succession? Residential Mobility in
+  Gentrifying Neighborhoods} {Displacement or succession? residential mobility
+  in gentrifying neighborhoods}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Urban Affairs Review}{40}{4}{463--491}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1509,6 +1984,87 @@ Glaeser, E\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Glaeser%
+, Resseger%
+\BCBL {}\ \BBA {} Tobio%
+}{%
+Glaeser%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+glaeser_inequality_2009}
+\APACinsertmetastar {%
+glaeser_inequality_2009}%
+\begin{APACrefauthors}%
+Glaeser, E\BPBI L.%
+, Resseger, M.%
+\BCBL {}\ \BBA {} Tobio, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Inequality in {{Cities}}*} {Inequality in
+  {{Cities}}*}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Regional Science}{49}{4}{617--646}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1467-9787.2009.00627.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Government of Canada}%
+}{%
+{Government of Canada}%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+government_of_canada_longitudinal_2020}
+\APACinsertmetastar {%
+government_of_canada_longitudinal_2020}%
+\begin{APACrefauthors}%
+{Government of Canada}, S\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{09}}}{}.
+\newblock
+\APACrefbtitle {Longitudinal {{Administrative Databank}} ({{LAD}}).}
+  {Longitudinal {{Administrative Databank}} ({{LAD}}).}
+\newblock
+\APAChowpublished
+  {https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey\&SDDS=4107\&dis=1}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Grant%
+, Walks%
+\BCBL {}\ \BBA {} Ramos%
+}{%
+Grant%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+grant_changing_2020}
+\APACinsertmetastar {%
+grant_changing_2020}%
+\begin{APACrefauthors}%
+Grant, J.%
+, Walks, A.%
+\BCBL {}\ \BBA {} Ramos, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2020}.
+\newblock
+\APACrefbtitle {Changing {{Neighbourhoods}}: Social and {{Spatial
+  Polarization}} in {{Canadian Cities}}} {Changing {{Neighbourhoods}}: Social
+  and {{Spatial Polarization}} in {{Canadian Cities}}}.
+\newblock
+\APACaddressPublisher{}{{UBC Press}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Grube-Cavers}%
 \ \BBA {} Patterson%
 }{%
@@ -1562,6 +2118,30 @@ Habib, K\BPBI N.%
 \APACjournalVolNumPages{Transportation}{41}{3}{651--672}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/s11116-014-9518-5} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Hagen-Zanker}%
+}{%
+{Hagen-Zanker}%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+hagen-zanker_why_2008}
+\APACinsertmetastar {%
+hagen-zanker_why_2008}%
+\begin{APACrefauthors}%
+{Hagen-Zanker}, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+\APACrefbtitle {Why Do People Migrate? A Review of the Theoretical Literature}
+  {Why do people migrate? a review of the theoretical literature}\
+  \APACbVolEdTR{}{\BTR{}\ \BNUM\ 28197}.
+\newblock
+\APACaddressInstitution{}{{University Library of Munich, Germany}}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1643,6 +2223,38 @@ Handy, S\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Hanibuchi%
+\ \protect \BOthers {.}}{%
+Hanibuchi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+hanibuchi_does_2012}
+\APACinsertmetastar {%
+hanibuchi_does_2012}%
+\begin{APACrefauthors}%
+Hanibuchi, T.%
+, Kondo, K.%
+, Nakaya, T.%
+, Shirai, K.%
+, Hirai, H.%
+\BCBL {}\ \BBA {} Kawachi, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Does Walkable Mean Sociable? Neighborhood Determinants
+  of Social Capital among Older Adults in {{Japan}}} {Does walkable mean
+  sociable? neighborhood determinants of social capital among older adults in
+  {{Japan}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Health \& Place}{18}{2}{229--239}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.healthplace.2011.09.015} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hansen%
 }{%
 Hansen%
@@ -1689,6 +2301,32 @@ Hanson, S.%
   factors}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Urban Geography}{3}{3}{179--202}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Harris%
+}{%
+Harris%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+harris_creeping_2020}
+\APACinsertmetastar {%
+harris_creeping_2020}%
+\begin{APACrefauthors}%
+Harris, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2020}.
+\newblock
+\APACrefbtitle {Creeping {{Conformity}}: How {{Canada Became Suburban}},
+  1900-1960} {Creeping {{Conformity}}: How {{Canada Became Suburban}},
+  1900-1960}.
+\newblock
+\APACaddressPublisher{{Toronto}}{{University of Toronto Press,}}.
+\newblock
+\begin{APACrefDOI} \doi{10.3138/9781442627642} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2018,10 +2656,71 @@ Kavanagh, L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Klein%
+Kazemipur%
+\ \BBA {} Halli%
+}{%
+Kazemipur%
+\ \BBA {} Halli%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+kazemipur_invisible_2000}
+\APACinsertmetastar {%
+kazemipur_invisible_2000}%
+\begin{APACrefauthors}%
+Kazemipur, A.%
+\BCBT {}\ \BBA {} Halli, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Invisible Barrier: Neighbourhood Poverty and
+  Integration of Immigrants in {{Canada}}} {The invisible barrier:
+  Neighbourhood poverty and integration of immigrants in {{Canada}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of International Migration and Integration;
+  Dordrecht}{1}{1}{85--100}.
+\newblock
+\begin{APACrefDOI} \doi{http://dx.doi.org/10.1007/s12134-000-1009-1}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kim%
+\ \BBA {} {Morrow-Jones}%
+}{%
+Kim%
+\ \BBA {} {Morrow-Jones}%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+kim_intrametropolitan_2011}
+\APACinsertmetastar {%
+kim_intrametropolitan_2011}%
+\begin{APACrefauthors}%
+Kim, M\BPBI J.%
+\BCBT {}\ \BBA {} {Morrow-Jones}, H\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Intrametropolitan Residential Mobility and Older Inner
+  Suburbs: A Case Study of the {{Greater Columbus}}, {{Ohio}}, Metropolitan
+  Area} {Intrametropolitan residential mobility and older inner suburbs: A case
+  study of the {{Greater Columbus}}, {{Ohio}}, metropolitan area}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Housing Policy Debate}{21}{1}{133--164}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/10511482.2011.534390} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+N.~Klein%
 \ \BBA {} Smart%
 }{%
-Klein%
+N.~Klein%
 \ \BBA {} Smart%
 }{%
 {\protect \APACyear {2017}}%
@@ -2046,11 +2745,11 @@ Klein, N.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Klein%
+N.~Klein%
 , Tran%
 \BCBL {}\ \BBA {} Riley%
 }{%
-Klein%
+N.~Klein%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2020}}%
 }]{%
@@ -2075,6 +2774,35 @@ Klein, N.%
 
 \newblock
 \begin{APACrefDOI} \doi{10.31235/osf.io/8x7d2} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+N\BPBI J.~Klein%
+\ \BBA {} Smart%
+}{%
+N\BPBI J.~Klein%
+\ \BBA {} Smart%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+klein_car_2017}
+\APACinsertmetastar {%
+klein_car_2017}%
+\begin{APACrefauthors}%
+Klein, N\BPBI J.%
+\BCBT {}\ \BBA {} Smart, M\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{{\APACmonth{05}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Car Today, Gone Tomorrow: The Ephemeral Car in
+  Low-Income, Immigrant and Minority Families} {Car today, gone tomorrow: The
+  ephemeral car in low-income, immigrant and minority families}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transportation}{44}{3}{495--510}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11116-015-9664-4} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2176,6 +2904,32 @@ Lee, B\BPBI A.%
   {Neighborhood context and residential mobility}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Demography}{31}{2}{249--270}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lees%
+, Slater%
+\BCBL {}\ \BBA {} Wyly%
+}{%
+Lees%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+lees_gentrification_2013}
+\APACinsertmetastar {%
+lees_gentrification_2013}%
+\begin{APACrefauthors}%
+Lees, L.%
+, Slater, T.%
+\BCBL {}\ \BBA {} Wyly, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Gentrification} {Gentrification}.
+\newblock
+\APACaddressPublisher{}{{Routledge}}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2286,6 +3040,37 @@ Ley, D.%
   groups in large {{Canadian}} cities}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Urban Studies}{37}{1}{37--62}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Logan%
+, Xu%
+\BCBL {}\ \BBA {} Stults%
+}{%
+Logan%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+logan_interpolating_2014}
+\APACinsertmetastar {%
+logan_interpolating_2014}%
+\begin{APACrefauthors}%
+Logan, J\BPBI R.%
+, Xu, Z.%
+\BCBL {}\ \BBA {} Stults, B\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{{\APACmonth{07}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Interpolating {{U}}.{{S}}. {{Decennial Census Tract
+  Data}} from as {{Early}} as 1970 to 2010: A {{Longitudinal Tract Database}}}
+  {Interpolating {{U}}.{{S}}. {{Decennial Census Tract Data}} from as {{Early}}
+  as 1970 to 2010: A {{Longitudinal Tract Database}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Professional Geographer}{66}{3}{412--420}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/00330124.2014.905156} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2512,6 +3297,35 @@ Massey, D\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Massey%
+\ \BBA {} Tannen%
+}{%
+Massey%
+\ \BBA {} Tannen%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+massey_suburbanization_2018}
+\APACinsertmetastar {%
+massey_suburbanization_2018}%
+\begin{APACrefauthors}%
+Massey, D\BPBI S.%
+\BCBT {}\ \BBA {} Tannen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{07}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Suburbanization and Segregation in the {{United
+  States}}: 1970\textendash 2010} {Suburbanization and segregation in the
+  {{United States}}: 1970\textendash 2010}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ethnic and Racial Studies}{41}{9}{1594--1611}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/01419870.2017.1312010} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Mattioli%
 , Philips%
 , Anable%
@@ -2539,6 +3353,35 @@ Mattioli, G.%
   increases: Socio-spatial patterns in {{England}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Transport Geography}{78}{}{98--114}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mattioli%
+, Wadud%
+\BCBL {}\ \BBA {} Lucas%
+}{%
+Mattioli%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+mattioli_vulnerability_2018}
+\APACinsertmetastar {%
+mattioli_vulnerability_2018}%
+\begin{APACrefauthors}%
+Mattioli, G.%
+, Wadud, Z.%
+\BCBL {}\ \BBA {} Lucas, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Vulnerability to Fuel Price Increases in the {{UK}}: A
+  Household Level Analysis} {Vulnerability to fuel price increases in the
+  {{UK}}: A household level analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transportation Research Part A: Policy and
+  Practice}{113}{}{227--242}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2596,6 +3439,38 @@ Moos, M.%
   the metropolitan social space}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Urban Studies}{52}{10}{1864--1882}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Morrow-Jones}%
+\ \BBA {} Wenning%
+}{%
+{Morrow-Jones}%
+\ \BBA {} Wenning%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+morrow-jones_housing_2005}
+\APACinsertmetastar {%
+morrow-jones_housing_2005}%
+\begin{APACrefauthors}%
+{Morrow-Jones}, H\BPBI A.%
+\BCBT {}\ \BBA {} Wenning, M\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {{Housing Ladder}}, the {{Housing Life}}-Cycle and
+  the {{Housing Life}}-Course: Upward and {{Downward Movement}} among {{Repeat
+  Home}}-Buyers in a {{US Metropolitan Housing Market}}} {The {{Housing
+  Ladder}}, the {{Housing Life}}-cycle and the {{Housing Life}}-course: Upward
+  and {{Downward Movement}} among {{Repeat Home}}-buyers in a {{US Metropolitan
+  Housing Market}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Urban Studies}{42}{10}{1739--1754}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/00420980500231647} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2868,6 +3743,40 @@ Papaioannou, E\BPBI M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Patel%
+, Joseph%
+, Killemsetty%
+\BCBL {}\ \BBA {} Eng%
+}{%
+Patel%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+patel_effects_2020}
+\APACinsertmetastar {%
+patel_effects_2020}%
+\begin{APACrefauthors}%
+Patel, A.%
+, Joseph, G.%
+, Killemsetty, N.%
+\BCBL {}\ \BBA {} Eng, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Effects of Residential Mobility and Migration on
+  Standards of Living in {{Dar}} Es {{Salaam}}, {{Tanzania}}: A Life-Course
+  Approach} {Effects of residential mobility and migration on standards of
+  living in {{Dar}} es {{Salaam}}, {{Tanzania}}: A life-course
+  approach}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLOS ONE}{15}{9}{e0239735}.
+\newblock
+\begin{APACrefDOI} \doi{10.1371/journal.pone.0239735} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Pavlic%
 \ \BBA {} Qian%
 }{%
@@ -2923,6 +3832,33 @@ Pereira, R\BPBI H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Picot%
+\ \BBA {} Hou%
+}{%
+Picot%
+\ \BBA {} Hou%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+picot_immigration_2014}
+\APACinsertmetastar {%
+picot_immigration_2014}%
+\begin{APACrefauthors}%
+Picot, G.%
+\BCBT {}\ \BBA {} Hou, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Immigration, Low Income and Income Inequality in
+  {{Canada}}: What's New in the 2000s?} {Immigration, low income and income
+  inequality in {{Canada}}: What's new in the 2000s?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Statistics Canada}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Randolph%
 \ \BBA {} Tice%
 }{%
@@ -2970,6 +3906,33 @@ Rawls, J.%
 \APACrefbtitle {A {{Theory}} of {{Justice}}} {A {{Theory}} of {{Justice}}}.
 \newblock
 \APACaddressPublisher{}{{Harvard University Press}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rayle%
+}{%
+Rayle%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+rayle_investigating_2015}
+\APACinsertmetastar {%
+rayle_investigating_2015}%
+\begin{APACrefauthors}%
+Rayle, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{{\APACmonth{07}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Investigating the {{Connection Between
+  Transit}}-{{Oriented Development}} and {{Displacement}}: Four {{Hypotheses}}}
+  {Investigating the {{Connection Between Transit}}-{{Oriented Development}}
+  and {{Displacement}}: Four {{Hypotheses}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Housing Policy Debate}{25}{3}{531--548}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/10511482.2014.951674} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3094,6 +4057,30 @@ Ross, N\BPBI A.%
 
 \bibitem [\protect \citeauthoryear {%
 Sampson%
+}{%
+Sampson%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+sampson_great_2012}
+\APACinsertmetastar {%
+sampson_great_2012}%
+\begin{APACrefauthors}%
+Sampson, R\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Great {{American City}}: Chicago and the {{Enduring
+  Neighborhood Effect}}} {Great {{American City}}: Chicago and the {{Enduring
+  Neighborhood Effect}}}.
+\newblock
+\APACaddressPublisher{}{{University of Chicago Press}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sampson%
 , Morenoff%
 \BCBL {}\ \BBA {} {Gannon-Rowley}%
 }{%
@@ -3204,6 +4191,92 @@ Sen, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Shevky%
+\ \BBA {} Bell%
+}{%
+Shevky%
+\ \BBA {} Bell%
+}{%
+{\protect \APACyear {1955}}%
+}]{%
+shevky_social_1955}
+\APACinsertmetastar {%
+shevky_social_1955}%
+\begin{APACrefauthors}%
+Shevky, E.%
+\BCBT {}\ \BBA {} Bell, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1955}.
+\newblock
+\APACrefbtitle {Social Area Analysis; Theory, Illustrative Application and
+  Computational Procedures.} {Social area analysis; theory, illustrative
+  application and computational procedures.}
+\newblock
+\APACaddressPublisher{}{{Stanford University Press}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Short%
+, Hanlon%
+\BCBL {}\ \BBA {} Vicino%
+}{%
+Short%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+short_decline_2007}
+\APACinsertmetastar {%
+short_decline_2007}%
+\begin{APACrefauthors}%
+Short, J\BPBI R.%
+, Hanlon, B.%
+\BCBL {}\ \BBA {} Vicino, T\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {{Decline}} of {{Inner Suburbs}}: The {{New Suburban
+  Gothic}} in the {{United States}}} {The {{Decline}} of {{Inner Suburbs}}: The
+  {{New Suburban Gothic}} in the {{United States}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Geography Compass}{1}{3}{641--656}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1749-8198.2007.00020.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Silver%
+\ \BBA {} Silva%
+}{%
+Silver%
+\ \BBA {} Silva%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+silver_markov_2021}
+\APACinsertmetastar {%
+silver_markov_2021}%
+\begin{APACrefauthors}%
+Silver, D.%
+\BCBT {}\ \BBA {} Silva, T\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A {{Markov}} Model of Urban Evolution: Neighbourhood
+  Change as a Complex Process} {A {{Markov}} model of urban evolution:
+  Neighbourhood change as a complex process}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PLOS ONE}{16}{1}{e0245357}.
+\newblock
+\begin{APACrefDOI} \doi{10.1371/journal.pone.0245357} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Skaburskis%
 \ \BBA {} Nelson%
 }{%
@@ -3285,6 +4358,90 @@ Smith, N.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Spring%
+, Ackert%
+, Crowder%
+\BCBL {}\ \BBA {} South%
+}{%
+Spring%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+spring_influence_2017}
+\APACinsertmetastar {%
+spring_influence_2017}%
+\begin{APACrefauthors}%
+Spring, A.%
+, Ackert, E.%
+, Crowder, K.%
+\BCBL {}\ \BBA {} South, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Influence of {{Proximity}} to {{Kin}} on {{Residential
+  Mobility}} and {{Destination Choice}}: Examining {{Local Movers}} in
+  {{Metropolitan Areas}}} {Influence of {{Proximity}} to {{Kin}} on
+  {{Residential Mobility}} and {{Destination Choice}}: Examining {{Local
+  Movers}} in {{Metropolitan Areas}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Demography}{54}{4}{1277--1304}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s13524-017-0587-x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Statistics~Canada%
+}{%
+Statistics~Canada%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+statistics_canada_dictionary_2016-1}
+\APACinsertmetastar {%
+statistics_canada_dictionary_2016-1}%
+\begin{APACrefauthors}%
+Statistics~Canada, G\BPBI o\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{11}}}{}.
+\newblock
+\APACrefbtitle {Dictionary, {{Census}} of {{Population}}, 2016 {{Census}}
+  Metropolitan Area ({{CMA}}) and Census Agglomeration ({{CA}}).} {Dictionary,
+  {{Census}} of {{Population}}, 2016 {{Census}} metropolitan area ({{CMA}}) and
+  census agglomeration ({{CA}}).}
+\newblock
+\APAChowpublished
+  {https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/geo009-eng.cfm}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Statistics~Canada%
+}{%
+Statistics~Canada%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+statistics_canada_proximity_2020}
+\APACinsertmetastar {%
+statistics_canada_proximity_2020}%
+\begin{APACrefauthors}%
+Statistics~Canada, G\BPBI o\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{04}}}{}.
+\newblock
+\APACrefbtitle {Proximity {{Measures Database}}.} {Proximity {{Measures
+  Database}}.}
+\newblock
+\APAChowpublished
+  {https://www150.statcan.gc.ca/n1/pub/17-26-0002/172600022020001-eng.htm}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Sumka%
 }{%
 Sumka%
@@ -3333,6 +4490,31 @@ TMG.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Torrens%
+\ \BBA {} Alberti%
+}{%
+Torrens%
+\ \BBA {} Alberti%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+torrens2000measuring}
+\APACinsertmetastar {%
+torrens2000measuring}%
+\begin{APACrefauthors}%
+Torrens, P\BPBI M.%
+\BCBT {}\ \BBA {} Alberti, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring Sprawl} {Measuring sprawl}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Urry%
 }{%
 Urry%
@@ -3353,6 +4535,34 @@ Urry, J.%
   automobility}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Theory, Culture \& Society}{21}{4-5}{25--39}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vickers%
+, Rees%
+\BCBL {}\ \BBA {} Birkin%
+}{%
+Vickers%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+vickers_creating_2005}
+\APACinsertmetastar {%
+vickers_creating_2005}%
+\begin{APACrefauthors}%
+Vickers, D.%
+, Rees, P.%
+\BCBL {}\ \BBA {} Birkin, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Creating the National Classification of Census Output
+  Areas: Data, Methods and Results} {Creating the national classification of
+  census output areas: Data, methods and results}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{School of Geography, University of Leeds}{}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -3541,6 +4751,34 @@ Wilson, W\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Withers%
+}{%
+Withers%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+withers_methodological_1997}
+\APACinsertmetastar {%
+withers_methodological_1997}%
+\begin{APACrefauthors}%
+Withers, S\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Methodological {{Considerations}} in the {{Analysis}} of
+  {{Residential Mobility}}: A {{Test}} of {{Duration}}, {{State Dependence}},
+  and {{Associated Events}}} {Methodological {{Considerations}} in the
+  {{Analysis}} of {{Residential Mobility}}: A {{Test}} of {{Duration}}, {{State
+  Dependence}}, and {{Associated Events}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Geographical Analysis}{29}{4}{354--372}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1538-4632.1997.tb00970.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Wolf%
 , Loechl%
 , Thompson%
@@ -3649,6 +4887,68 @@ Zahavi, Y.%
 \newblock
 \APACjournalVolNumPages{Federal Highway Administration, U.S. Department of
   Transportation}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+\ \BBA {} Pryce%
+}{%
+Zhang%
+\ \BBA {} Pryce%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+zhang_dynamics_2020}
+\APACinsertmetastar {%
+zhang_dynamics_2020}%
+\begin{APACrefauthors}%
+Zhang, M\BPBI L.%
+\BCBT {}\ \BBA {} Pryce, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Dynamics of Poverty, Employment and Access to
+  Amenities in Polycentric Cities: Measuring the Decentralisation of Poverty
+  and Its Impacts in {{England}} and {{Wales}}} {The dynamics of poverty,
+  employment and access to amenities in polycentric cities: Measuring the
+  decentralisation of poverty and its impacts in {{England}} and
+  {{Wales}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Urban Studies}{57}{10}{2015--2030}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0042098019860776} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhuang%
+\ \BBA {} Chen%
+}{%
+Zhuang%
+\ \BBA {} Chen%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+zhuang_role_2017}
+\APACinsertmetastar {%
+zhuang_role_2017}%
+\begin{APACrefauthors}%
+Zhuang, Z\BPBI C.%
+\BCBT {}\ \BBA {} Chen, A\BPBI X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{{\APACmonth{07}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Role of Ethnic Retailing in Retrofitting Suburbia:
+  Case Studies from {{Toronto}}, {{Canada}}} {The role of ethnic retailing in
+  retrofitting suburbia: Case studies from {{Toronto}}, {{Canada}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Urbanism: International Research on
+  Placemaking and Urban Sustainability}{10}{3}{275--295}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/17549175.2016.1254671} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
