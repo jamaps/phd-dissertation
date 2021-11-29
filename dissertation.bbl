@@ -126,7 +126,36 @@ Allen%
 \ \BBA {} Farber%
 }{%
 {\protect \APACyear {2019}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+allen_benchmarking_2019}
+\APACinsertmetastar {%
+allen_benchmarking_2019}%
+\begin{APACrefauthors}%
+Allen, J.%
+\BCBT {}\ \BBA {} Farber, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019{\protect \BCnt {1}}}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Benchmarking {{Transport Equity}} in the {{Greater
+  Toronto}} and {{Hamilton Area}} ({{GTHA}})} {Benchmarking {{Transport
+  Equity}} in the {{Greater Toronto}} and {{Hamilton Area}} ({{GTHA}})}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Findings}{}{}{9934}.
+\newblock
+\begin{APACrefDOI} \doi{10.32866/9934} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Allen%
+\ \BBA {} Farber%
+}{%
+Allen%
+\ \BBA {} Farber%
+}{%
+{\protect \APACyear {2019}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
 allen_sizing_2019}
 \APACinsertmetastar {%
 allen_sizing_2019}%
@@ -136,7 +165,7 @@ Allen, J.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2019}{}{}.
+\APACrefYearMonthDay{2019{\protect \BCnt {2}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Sizing up Transport Poverty: A National Scale Accounting
   of Low-Income Households Suffering from Inaccessibility in {{Canada}}, and
