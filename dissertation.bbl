@@ -564,6 +564,37 @@ Banister, D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bastiaanssen%
+, Johnson%
+\BCBL {}\ \BBA {} Lucas%
+}{%
+Bastiaanssen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+bastiaanssen_does_2020}
+\APACinsertmetastar {%
+bastiaanssen_does_2020}%
+\begin{APACrefauthors}%
+Bastiaanssen, J.%
+, Johnson, D.%
+\BCBL {}\ \BBA {} Lucas, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Does Transport Help People to Gain Employment? A
+  Systematic Review and Meta-Analysis of the Empirical Evidence} {Does
+  transport help people to gain employment? a systematic review and
+  meta-analysis of the empirical evidence}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transport Reviews}{40}{5}{607--628}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/01441647.2020.1747569} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Batty%
 \ \BBA {} Sikdar%
 }{%
@@ -1667,6 +1698,37 @@ Ewing, R.%
 
 \bibitem [\protect \citeauthoryear {%
 Ewing%
+, Hamidi%
+, Grace%
+\BCBL {}\ \BBA {} Wei%
+}{%
+Ewing%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+ewing_does_2016}
+\APACinsertmetastar {%
+ewing_does_2016}%
+\begin{APACrefauthors}%
+Ewing, R.%
+, Hamidi, S.%
+, Grace, J\BPBI B.%
+\BCBL {}\ \BBA {} Wei, Y\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Does Urban Sprawl Hold down Upward Mobility?} {Does
+  urban sprawl hold down upward mobility?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Landscape and Urban Planning}{148}{}{80--88}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.landurbplan.2015.11.012} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ewing%
 , Schmid%
 , Killingsworth%
 , Zlot%
@@ -1871,6 +1933,42 @@ Foth, N.%
   need in {{Toronto}}, {{Canada}}, 1996\textendash 2006}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of transport geography}{29}{}{1--10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fransen%
+, Boussauw%
+, Deruyter%
+\BCBL {}\ \BBA {} De~Maeyer%
+}{%
+Fransen%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+fransen_relationship_2019}
+\APACinsertmetastar {%
+fransen_relationship_2019}%
+\begin{APACrefauthors}%
+Fransen, K.%
+, Boussauw, K.%
+, Deruyter, G.%
+\BCBL {}\ \BBA {} De~Maeyer, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Relationship between Transport Disadvantage and
+  Employability: Predicting Long-Term Unemployment Based on Job Seekers' Access
+  to Suitable Job Openings in {{Flanders}}, {{Belgium}}} {The relationship
+  between transport disadvantage and employability: Predicting long-term
+  unemployment based on job seekers' access to suitable job openings in
+  {{Flanders}}, {{Belgium}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transportation Research Part A: Policy and
+  Practice}{125}{}{268--279}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.tra.2018.01.023} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -4564,6 +4662,47 @@ Urry, J.%
   automobility}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Theory, Culture \& Society}{21}{4-5}{25--39}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{van Ham}%
+, Manley%
+, Bailey%
+, Simpson%
+\BCBL {}\ \BBA {} Maclennan%
+}{%
+{van Ham}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+van_ham_understanding_2013}
+\APACinsertmetastar {%
+van_ham_understanding_2013}%
+\begin{APACrefauthors}%
+{van Ham}, M.%
+, Manley, D.%
+, Bailey, N.%
+, Simpson, L.%
+\BCBL {}\ \BBA {} Maclennan, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Understanding {{Neighbourhood Dynamics}}: New
+  {{Insights}} for {{Neighbourhood Effects Research}}} {Understanding
+  {{Neighbourhood Dynamics}}: New {{Insights}} for {{Neighbourhood Effects
+  Research}}}.{\BBCQ}
+\newblock
+\BIn{} M.~{van Ham}, D.~Manley, N.~Bailey, L.~Simpson\BCBL {}\ \BBA {}
+  D.~Maclennan\ (\BEDS), \APACrefbtitle {Understanding {{Neighbourhood
+  Dynamics}}: New {{Insights}} for {{Neighbourhood Effects Research}}}
+  {Understanding {{Neighbourhood Dynamics}}: New {{Insights}} for
+  {{Neighbourhood Effects Research}}}\ (\BPGS\ 1--21).
+\newblock
+\APACaddressPublisher{{Dordrecht}}{{Springer Netherlands}}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-94-007-4854-5_1} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
