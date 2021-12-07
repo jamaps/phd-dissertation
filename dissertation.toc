@@ -45,8 +45,8 @@
 \contentsline {section}{\numberline {5.1}Introduction}{94}{section.5.1}%
 \contentsline {chapter}{\numberline {6}Conclusion}{95}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Research Contributions}{95}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Implications for Urban Planning}{99}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Data Limitations}{100}{section.6.3}%
+\contentsline {section}{\numberline {6.2}Implications for Urban Planning}{98}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Data Limitations}{99}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Future Research}{102}{section.6.4}%
 \contentsline {subsection}{\numberline {6.4.1}Planning \& Policy Effectiveness}{102}{subsection.6.4.1}%
 \contentsline {subsection}{\numberline {6.4.2}Improving Theory About Urban Dynamics And Activity Behaviour}{102}{subsection.6.4.2}%
