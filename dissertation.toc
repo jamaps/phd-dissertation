@@ -51,13 +51,10 @@
 \contentsline {section}{\numberline {5.7}Conclusions}{114}{section.5.7}%
 \contentsline {chapter}{\numberline {6}Conclusions}{117}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Research Contributions}{117}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Implications for Urban Planning}{120}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Data Limitations}{121}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Future Research}{124}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Planning \& Policy Effectiveness}{124}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Improving Theory About Urban Dynamics And Activity Behaviour}{124}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6.4.3}Transit-Induced Displacement In Canada}{126}{subsection.6.4.3}%
-\contentsline {subsection}{\numberline {6.4.4}Transit Accessibility, Urban Form, and Income Mobility}{126}{subsection.6.4.4}%
-\contentsline {subsection}{\numberline {6.4.5}Transportation Forecasting With Urban Dynamics}{128}{subsection.6.4.5}%
-\contentsline {subsection}{\numberline {6.4.6}Communication}{129}{subsection.6.4.6}%
-\contentsline {chapter}{References}{130}{chapter*.53}%
+\contentsline {section}{\numberline {6.2}Implications for Urban Planning}{122}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Data Limitations}{123}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Future Research}{126}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Transit-Induced Displacement In Canada}{129}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Transportation Forecasting With Urban Dynamics}{129}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Communication}{131}{subsection.6.4.3}%
+\contentsline {chapter}{References}{132}{chapter*.53}%
