@@ -1490,6 +1490,38 @@ Coulter, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Cui%
+, Boisjoly%
+, {El-Geneidy}%
+\BCBL {}\ \BBA {} Levinson%
+}{%
+Cui%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+cui_accessibility_2019}
+\APACinsertmetastar {%
+cui_accessibility_2019}%
+\begin{APACrefauthors}%
+Cui, B.%
+, Boisjoly, G.%
+, {El-Geneidy}, A.%
+\BCBL {}\ \BBA {} Levinson, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Accessibility and the Journey to Work through the Lens
+  of Equity} {Accessibility and the journey to work through the lens of
+  equity}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Transport Geography}{74}{}{269--277}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jtrangeo.2018.12.003} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Currie%
 }{%
 Currie%

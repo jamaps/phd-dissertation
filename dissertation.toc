@@ -2,8 +2,8 @@
 \contentsline {section}{Acknowledgements}{iii}{chapter*.2}%
 \contentsline {section}{Table of Contents}{vi}{chapter*.3}%
 \contentsline {section}{List of Figures}{vii}{chapter*.3}%
-\contentsline {section}{List of Tables}{viii}{chapter*.4}%
-\contentsline {section}{Preface}{x}{chapter*.6}%
+\contentsline {section}{List of Tables}{ix}{chapter*.4}%
+\contentsline {section}{Preface}{xi}{chapter*.6}%
 \contentsline {chapter}{\numberline {1}{Introduction}}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Background}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}A Brief History of Suburbanization}{7}{section.2.1}%
@@ -50,11 +50,7 @@
 \contentsline {section}{\numberline {5.6}Results}{108}{section.5.6}%
 \contentsline {section}{\numberline {5.7}Conclusions}{114}{section.5.7}%
 \contentsline {chapter}{\numberline {6}Conclusions}{117}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Research Contributions}{117}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Implications for Urban Planning}{122}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Data Limitations}{123}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Future Research}{126}{section.6.4}%
-\contentsline {subsection}{\numberline {6.4.1}Transit-Induced Displacement In Canada}{129}{subsection.6.4.1}%
-\contentsline {subsection}{\numberline {6.4.2}Transportation Forecasting With Urban Dynamics}{129}{subsection.6.4.2}%
-\contentsline {subsection}{\numberline {6.4.3}Communication}{131}{subsection.6.4.3}%
-\contentsline {chapter}{References}{132}{chapter*.53}%
+\contentsline {section}{\numberline {6.1}Research Contributions \& Implications}{117}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Data Limitations}{122}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Research}{124}{section.6.3}%
+\contentsline {chapter}{References}{130}{chapter*.53}%
