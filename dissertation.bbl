@@ -2321,6 +2321,36 @@ Farber, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Folch%
+\ \BBA {} Spielman%
+}{%
+Folch%
+\ \BBA {} Spielman%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+folch_identifying_2014}
+\APACinsertmetastar {%
+folch_identifying_2014}%
+\begin{APACrefauthors}%
+Folch, D\BPBI C.%
+\BCBT {}\ \BBA {} Spielman, S\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Identifying Regions Based on Flexible User-Defined
+  Constraints} {Identifying regions based on flexible user-defined
+  constraints}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Geographical Information
+  Science}{28}{1}{164--184}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/13658816.2013.848986} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Foth%
 , Manaugh%
 \BCBL {}\ \BBA {} {El-Geneidy}%
@@ -6048,6 +6078,37 @@ Wegener, M.%
 \APACrefbtitle {Land-{{Use Transport Interaction}}: State of the {{Art}}}
   {Land-{{Use Transport Interaction}}: State of the {{Art}}}\
   \APACbVolEdTR{}{\BTR{}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wei%
+, Rey%
+\BCBL {}\ \BBA {} Knaap%
+}{%
+Wei%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+wei_efficient_2021}
+\APACinsertmetastar {%
+wei_efficient_2021}%
+\begin{APACrefauthors}%
+Wei, R.%
+, Rey, S.%
+\BCBL {}\ \BBA {} Knaap, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Efficient Regionalization for Spatially Explicit
+  Neighborhood Delineation} {Efficient regionalization for spatially explicit
+  neighborhood delineation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Geographical Information
+  Science}{35}{1}{135--151}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/13658816.2020.1759806} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
