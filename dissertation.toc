@@ -19,38 +19,38 @@
 \contentsline {subsection}{\numberline {3.3.3}Measuring Transport Disadvantage}{42}{subsection.3.3.3}%
 \contentsline {section}{\numberline {3.4}Analysis and Results}{46}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}Spatio-temporal Analysis}{46}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Suburbanization of Transport Poverty}{52}{subsection.3.4.2}%
-\contentsline {section}{\numberline {3.5}Conclusions}{56}{section.3.5}%
-\contentsline {section}{3.A \hspace {1mm} Appendix}{58}{section*.20}%
-\contentsline {subsection}{3.A.1 \hspace {2mm} Selection of distance decay parameters for measuring accessibility}{58}{section*.21}%
-\contentsline {chapter}{\numberline {4}Pathways to Suburban Poverty}{61}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Introduction}{62}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Background}{63}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Conceptual Framework}{66}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Data \& Methods}{70}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Classifying Suburbs}{71}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Measuring Suburbanization of Poverty}{74}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Mobility Pathways to Suburban Poverty}{76}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Results}{78}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Classifying Suburbs}{78}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Measuring Suburban Poverty}{80}{subsection.4.5.2}%
-\contentsline {subsection}{\numberline {4.5.3}Mobility Pathways to Suburban Poverty}{81}{subsection.4.5.3}%
-\contentsline {section}{\numberline {4.6}Conclusions}{85}{section.4.6}%
-\contentsline {section}{4.A \hspace {1mm} Appendix}{88}{section*.34}%
-\contentsline {subsection}{4.A.1 \hspace {2mm} Measuring Transit Accessibility to Jobs}{88}{section*.35}%
-\contentsline {subsection}{4.A.2 \hspace {2mm} Measuring Local Accessibility}{89}{section*.36}%
-\contentsline {subsection}{4.A.3 \hspace {2mm} Cluster Analysis Maps}{90}{section*.38}%
-\contentsline {subsection}{4.A.4 \hspace {2mm} Population Flow Matrices}{92}{section*.41}%
-\contentsline {chapter}{\numberline {5}Are low-income residents disproportionately moving away from transit?}{93}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Introduction}{94}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Background}{95}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Study Context}{100}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Data Sources}{102}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Methods}{106}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Results}{108}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Conclusions}{114}{section.5.7}%
-\contentsline {chapter}{\numberline {6}Conclusions}{117}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Research Contributions \& Implications}{117}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Data Limitations}{123}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Future Research}{125}{section.6.3}%
-\contentsline {chapter}{References}{130}{chapter*.53}%
+\contentsline {subsection}{\numberline {3.4.2}Suburbanization of Transport Poverty}{51}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Conclusions}{55}{section.3.5}%
+\contentsline {section}{3.A \hspace {1mm} Appendix}{57}{section*.20}%
+\contentsline {subsection}{3.A.1 \hspace {2mm} Selection of distance decay parameters for measuring accessibility}{57}{section*.21}%
+\contentsline {chapter}{\numberline {4}Pathways to Suburban Poverty}{60}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{61}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Background}{62}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Conceptual Framework}{65}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Data \& Methods}{69}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Classifying Suburbs}{70}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Measuring Suburbanization of Poverty}{73}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Mobility Pathways to Suburban Poverty}{75}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Results}{77}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Classifying Suburbs}{77}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Measuring Suburban Poverty}{79}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Mobility Pathways to Suburban Poverty}{80}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}Conclusions}{84}{section.4.6}%
+\contentsline {section}{4.A \hspace {1mm} Appendix}{87}{section*.34}%
+\contentsline {subsection}{4.A.1 \hspace {2mm} Measuring Transit Accessibility to Jobs}{87}{section*.35}%
+\contentsline {subsection}{4.A.2 \hspace {2mm} Measuring Local Accessibility}{88}{section*.36}%
+\contentsline {subsection}{4.A.3 \hspace {2mm} Cluster Analysis Maps}{89}{section*.38}%
+\contentsline {subsection}{4.A.4 \hspace {2mm} Population Flow Matrices}{91}{section*.41}%
+\contentsline {chapter}{\numberline {5}Are low-income residents disproportionately moving away from transit?}{92}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{93}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Background}{94}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Study Context}{99}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Data Sources}{101}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Methods}{105}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Results}{107}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Conclusions}{113}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Conclusions}{115}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Research Contributions \& Implications}{115}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Data Limitations}{121}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Future Research}{123}{section.6.3}%
+\contentsline {chapter}{References}{128}{chapter*.53}%

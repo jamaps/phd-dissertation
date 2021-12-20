@@ -180,15 +180,20 @@ Comparing low-income and non-low-income residents, we find that higher income re
 
 These relationships are further examined via the results of regression models displayed in Table \ref{table:models}. Positive coefficients in the selection model ($\gamma > 0$) indicate that the variable has a positive affect on the propensity to move. Confirming the descriptive trends (Figure \ref{fig:4plots}), low-income residents are more likely to move in the past year. Recent immigrants are also more likely to move. Overall this indicates that people living with lower levels of socio-economic status are more likely to experience residential instability and increased propensity to move. Changes in family status, such as having children, children moving in or out, or couples forming or splitting, also increase likelihood of moving, likely due to wanting to change dwellings to suit new household needs.
 
+Positive coefficients in the outcome model ($\beta > 0$) indicate that the variable is more likely to increase the level of transit accessibility during a residential move (each unit increase in $X$ increases transit accessibility by a value of $\beta$ during a move). For low-income status, we find that low-income residents have a change in transit accessibility of 0.84 more than non-low-income residents. Overall, this is not a substantial difference, given that accessibility in this case ranges on a scale of 0 to 100, but still a significant difference. These results also corroborate the descriptive analysis shown in Figure \ref{fig:2smooth}. Aside from income, household factors such as reducing household size, being a lone-parent, being a recent immigrant, and the presence of older children in the household all increase the likelihood of increased transit accessibility when moving. These factors are likely both due to neighbourhood preferences (e.g. for urban neighbourhoods, living near transit) as well as dwelling preferences (e.g. smaller dwelling sizes, which also tend to be more centrally located).
+
 
 
 \begin{table}[H]
-	\renewcommand{\baselinestretch}{1.1} 
+	
+	\renewcommand{\baselinestretch}{1.0} 
 	\small
-	\centering
+	
 	\caption{{Results of Heckman selection models predicting change in transit accessibility for intra-urban movers}}
 	\label{table:models}
 	
+	\begin{adjustwidth}{-1in}{-1in}
+		\centering
 	\begin{tabular}{lrrrrrrr}
 		\hline
 		&         &  & \multicolumn{2}{r}{\textbf{Selection Model}}              &                      & \multicolumn{2}{r}{\textbf{Outcome Model}}                \\
@@ -242,6 +247,7 @@ These relationships are further examined via the results of regression models di
 		\multicolumn{8}{p{12.2cm}}{\small{$^*$ Categorical variables for year are displayed in Table \ref{table:models_2}}}\\
 		
 	\end{tabular}
+	\end{adjustwidth}
 	
 \end{table}
 
@@ -249,7 +255,7 @@ These relationships are further examined via the results of regression models di
 
 
 \begin{table}[H]
-	\renewcommand{\baselinestretch}{1.1} 
+	\renewcommand{\baselinestretch}{1.0} 
 	\small
 	\centering
 	\caption{{Coefficients for year for the Heckman selection models presented in Table \ref{table:models}}}
@@ -293,7 +299,7 @@ These relationships are further examined via the results of regression models di
 	\end{tabular}
 \end{table}
 
-Positive coefficients in the outcome model ($\beta > 0$) indicate that the variable is more likely to increase the level of transit accessibility during a residential move (each unit increase in $X$ increases transit accessibility by a value of $\beta$ during a move). For low-income status, we find that low-income residents have a change in transit accessibility of 0.84 more than non-low-income residents. Overall, this is not a substantial difference, given that accessibility in this case ranges on a scale of 0 to 100, but still a significant difference. These results also corroborate the descriptive analysis shown in Figure \ref{fig:2smooth}. Aside from income, household factors such as reducing household size, being a lone-parent, being a recent immigrant, and the presence of older children in the household all increase the likelihood of increased transit accessibility when moving. These factors are likely both due to neighbourhood preferences (e.g. for urban neighbourhoods, living near transit) as well as dwelling preferences (e.g. smaller dwelling sizes, which also tend to be more centrally located).
+
 
 
 

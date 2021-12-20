@@ -93,11 +93,13 @@ The study area for this paper is the Toronto Census Metropolitan Area (CMA). CMA
 Table \ref{table:summary} indicates how the region has grown from 1991 to 2016, both in terms of population and built-up area.
 
 
-\begin{table}[H]
+\begin{table}[h]
 	\small
-	\centering
+	
 	\caption{{Summary statistics of the Toronto CMA from 1991 to 2016}}
 	\label{table:summary}
+	\begin{adjustwidth}{-1in}{-1in}
+		\centering
 	\begin{tabular}{lcccccc}
 		\hline
 		\textbf{}                          & \textbf{1991} & \textbf{1996} & \textbf{2001} & \textbf{2006} & \textbf{2011} & \textbf{2016} \\
@@ -109,6 +111,7 @@ Table \ref{table:summary} indicates how the region has grown from 1991 to 2016, 
 		
 		\hline 
 	\end{tabular}
+\end{adjustwidth}
 \end{table}
 
 \subsection{Data Sources}
@@ -128,11 +131,13 @@ Census and TTS data were acquired as aggregate summaries pertaining to neighborh
 
 Table \ref{table:census} displays the variables from the Canadian census that are used to form our understanding of neighborhood level socio-economic status. This table provides regional context that is important to note prior to examining intra-regional trends. Variables were selected based on two criteria: 1) they have been used in previous studies that have examined social deprivation in Canada \shortcite{pampalon_deprivation_2009} as well as their relation to transport disadvantage \shortcite{foth_towards_2013, el-geneidy_non-stop_2016, allen_sizing_2019}, and 2) variable consistency across multiple census years.
 
-\begin{table}[H]
+\begin{table}[h]
 	\small
-	\centering
+	
 	\caption{{Summary of Statistics Canada census SES data for the Toronto CMA from 1991 to 2016}}
 	\label{table:census}
+	\begin{adjustwidth}{-1in}{-1in}
+		\centering
 	\begin{tabular}{lcccccc}
 		\hline
 		\textbf{}                          & \textbf{1991} & \textbf{1996} & \textbf{2001} & \textbf{2006} & \textbf{2011} & \textbf{2016} \\
@@ -150,6 +155,7 @@ Table \ref{table:census} displays the variables from the Canadian census that ar
 		\% who are unemployed                              & 9\%  & 9\%  & 6\%  & 7\%  & 9\%  & 8\%  \\
 		\hline 
 	\end{tabular}
+\end{adjustwidth}
 \end{table}
 
 The regional trends presented in Table \ref{table:census} indicate relative stability in SES over time at an aggregate level, with some exceptions for specific variables. Looking at income, we see that the average income in the region has increased, but there also has been a slight increase in percent of population in low-income households. This deviation aligns with research showing an increase in income polarization in the Toronto region \cite{hulchanski_three_2010}. Education rates have improved substantially in the region over time, from 33\% of adults not having a high school education to only 16\%. Other less pronounced trends over time include relative decreases in dwellings that need major repairs, immigration, and unemployment while there has been a slight increase in percent of single-parent families. Important to note is that relatively stable proportions over time however indicate growing overall counts of people in each group since the overall population of the region is steadily increasing over time (e.g. the total number of people in low income households in 1991 compared to 2016 nearly doubled). The most notable temporal deviation is for 1996, when a recession in the early 1990s explains worse SES indicators for this year (e.g. higher poverty rate, lower average income, greater percent of income devoted to housing).
@@ -164,7 +170,12 @@ We also generate a single indicator of neighborhood level socio-economic status 
 The factor weights, $w_x$, for each variable, $x$, are displayed in Table \ref{table:pca}. Also displayed is the correlation coefficient between $SES_{i,\gamma}$ and $Z_{x,i,\gamma}$. 
 
 
-\begin{table}[H]
+
+
+The resulting values of $SES_i$ have a mean of zero and a standard deviation equal to two. Also to note is that it has a negative skew ($\bar{\mu}_3$ = -0.75), meaning that wealthier neighborhoods are more similar to each other in terms of SES, while poorer neighborhoods have greater dispersion. This highlights how the poorest neighborhoods are relatively further from the mean that affluent neighbourhoods. Plots of the distribution of $SES_i$ for each year are shown in Figure \ref{fig:SES_violin}. Overall, there is stability in the average levels of SES over time. The notable exception is 1996 where there is a substantial decline in SES, likely due to the early 1990s recession. The relative consistency in distributions of SES by year is contrary to some previous research highlighting increased polarization over time \cite{hulchanski_three_2010}. This is likely because this previous research has focused solely on income inequalities, rather than a composite index of SES. Summary plots like these also mask spatial variations and changes in spatial patterns over time.
+
+
+\begin{table}[h]
 	\small
 	\centering
 	\caption{{Results of a PCA of neighbourhood level socio-economic status for the Toronto CMA}}
@@ -186,11 +197,6 @@ The factor weights, $w_x$, for each variable, $x$, are displayed in Table \ref{t
 		\hline
 	\end{tabular}
 \end{table}
-
-The resulting values of $SES_i$ have a mean of zero and a standard deviation equal to two. Also to note is that it has a negative skew ($\bar{\mu}_3$ = -0.75), meaning that wealthier neighborhoods are more similar to each other in terms of SES, while poorer neighborhoods have greater dispersion. This highlights how the poorest neighborhoods are relatively further from the mean that affluent neighbourhoods. Plots of the distribution of $SES_i$ for each year are shown in Figure \ref{fig:SES_violin}. Overall, there is stability in the average levels of SES over time. The notable exception is 1996 where there is a substantial decline in SES, likely due to the early 1990s recession. The relative consistency in distributions of SES by year is contrary to some previous research highlighting increased polarization over time \cite{hulchanski_three_2010}. This is likely because this previous research has focused solely on income inequalities, rather than a composite index of SES. Summary plots like these also mask spatial variations and changes in spatial patterns over time.
-
-
-
 
 
 
@@ -248,7 +254,7 @@ A_{i,\lambda} =  \frac{0.5 A_{i,E,\lambda}}{\max{(A_{i,E,\lambda})}} + \frac{0.5
 Table \ref{table:tts} shows summary statistics of the TTS and the accessibility measures. The percent of zero-car households has remained relatively consistent over time, with a mild peak in 1996 corresponding to the recession. But again, because the population has grown, so has the overall number of zero-car households. Transit accessibility has increased slightly over time. This is indicative that transit service has kept pace with outward expansion, and that inner-city development has occurred in more accessible areas. 
 
 
-\begin{table}[H]
+\begin{table}[h]
 	\small
 	\centering
 	\caption{{Summary statistics of transportation metrics from 1991 to 2016 for the Toronto CMA}}
@@ -298,7 +304,6 @@ Where $i$ specifies a census tract, $\gamma$ is the year, and $\alpha_{i,x}$, $\
 
 Maps of neighborhood change ($\delta_{i,x}$) are displayed in Figure \ref{fig:change_maps}, and correlations between these rates of change are displayed in Figure \ref{fig:beta_cormod}. 
 
-The top-left panel in Figure \ref{fig:change_maps} indicates where population growth and decline has occurred, with the majority of growth occurring in the suburbs as well as a few pockets of intensification in older urban areas. Areas of population loss have primarily occurred in older, pre-war, neighborhoods just east and west of the downtown core. These neighborhoods have also witnessed the greatest increase in SES, as evidenced in the top-right panel (the correlation between change in population density and change in SES is -0.09). These older centrally located neighborhoods are also often described as those that have undergone gentrification. On the other hand, neighborhoods that have witnessed substantial declines in SES are primarily located in more suburban areas. There is also some growth in low-SES households directly in the city centre. This could be due to a number of factors; increases in post-secondary students, rising housing costs relative to income, or deprivation within social housing and older apartment buildings. Overall, these spatial patterns of changing SES corroborate results of neighborhood change analyses in other research papers \cite{ades_are_2012,breau_pulling_2018,hulchanski_three_2010,pavlic_declining_2014}. 
 
 
 \begin{figure}[H]
@@ -310,6 +315,9 @@ The top-left panel in Figure \ref{fig:change_maps} indicates where population gr
 	\label{fig:change_maps}
 	
 \end{figure}
+
+
+The top-left panel in Figure \ref{fig:change_maps} indicates where population growth and decline has occurred, with the majority of growth occurring in the suburbs as well as a few pockets of intensification in older urban areas. Areas of population loss have primarily occurred in older, pre-war, neighborhoods just east and west of the downtown core. These neighborhoods have also witnessed the greatest increase in SES, as evidenced in the top-right panel (the correlation between change in population density and change in SES is -0.09). These older centrally located neighborhoods are also often described as those that have undergone gentrification. On the other hand, neighborhoods that have witnessed substantial declines in SES are primarily located in more suburban areas. There is also some growth in low-SES households directly in the city centre. This could be due to a number of factors; increases in post-secondary students, rising housing costs relative to income, or deprivation within social housing and older apartment buildings. Overall, these spatial patterns of changing SES corroborate results of neighborhood change analyses in other research papers \cite{ades_are_2012,breau_pulling_2018,hulchanski_three_2010,pavlic_declining_2014}. 
 
 
 For car ownership, we observe pockets of zero-car households growing within central and inner-suburban areas. This could be due to high costs of living limiting people's ability to purchase a car, or it could be due to increased preferences to live a car-free lifestyle \shortcite{habib_household-level_2014,papaioannou_study_2020}. Within central areas there are adequate levels of transit accessibility and walkable environments such that having a car is not a necessity. However, it is concerning that carlessness is growing in the inner-suburbs since this could be evidence of a reduction in people's capabilities for daily travel.
@@ -338,11 +346,14 @@ Y = \rho W Y + \Theta X + \epsilon
 Where $Y$ is the vector of dependent variables (change in neighborhood averages of commute times and activity participation rates, respectively), $X$ is a matrix of independent variables, $\Theta$ is a vector of coefficients, and $\epsilon$ are the error terms. The models were originally specified using ordinary least squares regression, but we found significant positive spatial auto-correlation among the residuals, leading to specifying a model that incorporates spatial effects \cite{anselin_spatial_1988}. A Lagrange multiplier test was used to decide on using a spatial lag model rather than a spatial error model \cite{anselin_exploring_2005}. This is incorporated via a spatial auto-regressive component, $\rho W Y$, where $\rho$ is a spatial lag parameter and $W$ is a row normalized Queen connectivity spatial weights matrix. Results are displayed in Table \ref{table:model}. In addition to the variables included in the map in Figure \ref{fig:change_maps}, we also included an independent variable representing change in the percent elderly population in each neighborhood since previous research has noted that the elderly travel less than the non-elderly population \shortcite{newbold_travel_2005,xu_good_2018}.
 
 
-\begin{table}[H]
+\begin{table}[h]
 	\small
-	\centering
+	
 	\caption{{Model results showing how neighborhood change in social and transport disadvantage effects changes in travel behaviour}}
 	\label{table:model}
+	\begin{adjustwidth}{-1in}{-1in}
+		
+		\centering
 	\begin{tabular}{lcccc}
 		\hline
 		& \multicolumn{2}{c}{\textbf{Change in activity participation}} & \multicolumn{2}{c}{\textbf{Change in commute time}} \\
@@ -361,6 +372,8 @@ Where $Y$ is the vector of dependent variables (change in neighborhood averages 
 		Change in \% elderly (65+)  & -0.003           & 0.003     & -0.111         & 0.000    \\
 		\hline
 	\end{tabular}
+
+	\end{adjustwidth}
 \end{table}
 
 The commute time model indicates that increases in transit accessibility and car ownership are linked to reduced commute times, indicating a strong relation to transport disadvantage, overall. Change in SES over time, however, is not found to have a significant association with changing commute times, after controlling for other variables. 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  20 DEC 2021 12:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  20 DEC 2021 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -655,7 +655,7 @@ File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 171.
+(hyperref)                setting the option has no effect on input line 182.
 
 [10] [11
 
@@ -693,72 +693,63 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Chapter 3.
 (./chapters/3_subtrapov.tex [31
 
-] [32] [33] [34] [35] [36] [37] [38]
-Overfull \hbox (37.1398pt too wide) in paragraph at lines 136--153
- [][] 
- []
-
-[39] [40]
+] [32] [33] [34] [35] [36] [37] [38] [39]
+[40]
 <figures/Fig1.png, id=1378, 252.945pt x 144.54pt>
 File: figures/Fig1.png Graphic file (type png)
 <use figures/Fig1.png>
-Package pdftex.def Info: figures/Fig1.png  used on input line 200.
+Package pdftex.def Info: figures/Fig1.png  used on input line 206.
 (pdftex.def)             Requested size: 252.94499pt x 144.54182pt.
- [41] [42 <./figures/Fig1.png>] [43] [44] [45] [46]
-<figures/Fig2.png, id=1484, 469.755pt x 650.43pt>
+ [41 <./figures/Fig1.png>] [42] [43] [44] [45]
+<figures/Fig2.png, id=1465, 469.755pt x 650.43pt>
 File: figures/Fig2.png Graphic file (type png)
 <use figures/Fig2.png>
-Package pdftex.def Info: figures/Fig2.png  used on input line 308.
+Package pdftex.def Info: figures/Fig2.png  used on input line 313.
 (pdftex.def)             Requested size: 469.75499pt x 650.4284pt.
 
-Overfull \hbox (14.48956pt too wide) in paragraph at lines 307--309
+Overfull \hbox (14.48956pt too wide) in paragraph at lines 312--314
  []|  [] 
  []
 
-[47]
+[46]
 Overfull \vbox (58.87964pt too high) has occurred while \output is active []
 
 
-[48 <./figures/Fig2.png>]
-<figures/Fig3.png, id=1506, 325.215pt x 162.6075pt>
+[47 <./figures/Fig2.png>] [48]
+<figures/Fig3.png, id=1509, 325.215pt x 162.6075pt>
 File: figures/Fig3.png Graphic file (type png)
 <use figures/Fig3.png>
-Package pdftex.def Info: figures/Fig3.png  used on input line 326.
+Package pdftex.def Info: figures/Fig3.png  used on input line 334.
 (pdftex.def)             Requested size: 325.215pt x 162.6195pt.
- [49]
-Overfull \hbox (13.79991pt too wide) in paragraph at lines 346--364
- [][] 
- []
-
-[50 <./figures/Fig3.png>] [51]
-<figures/Fig4_sub_plot_4.png, id=1558, 469.755pt x 325.215pt>
+ [49 <./figures/Fig3.png>] [50]
+<figures/Fig4_sub_plot_4.png, id=1554, 469.755pt x 325.215pt>
 File: figures/Fig4_sub_plot_4.png Graphic file (type png)
 <use figures/Fig4_sub_plot_4.png>
-Package pdftex.def Info: figures/Fig4_sub_plot_4.png  used on input line 384.
+Package pdftex.def Info: figures/Fig4_sub_plot_4.png  used on input line 397.
 (pdftex.def)             Requested size: 469.75499pt x 325.2142pt.
 
-Overfull \hbox (14.48956pt too wide) in paragraph at lines 383--385
+Overfull \hbox (14.48956pt too wide) in paragraph at lines 396--398
  []|  [] 
  []
 
-[52] [53 <./figures/Fig4_sub_plot_4.png>] [54]
-<figures/Fig5_tp_time.png, id=1589, 469.755pt x 252.945pt>
+[51] [52 <./figures/Fig4_sub_plot_4.png>] [53]
+<figures/Fig5_tp_time.png, id=1585, 469.755pt x 252.945pt>
 File: figures/Fig5_tp_time.png Graphic file (type png)
 <use figures/Fig5_tp_time.png>
-Package pdftex.def Info: figures/Fig5_tp_time.png  used on input line 410.
+Package pdftex.def Info: figures/Fig5_tp_time.png  used on input line 423.
 (pdftex.def)             Requested size: 469.75499pt x 252.94438pt.
 
-Overfull \hbox (14.48956pt too wide) in paragraph at lines 409--411
+Overfull \hbox (14.48956pt too wide) in paragraph at lines 422--424
  []|  [] 
  []
 
-[55 <./figures/Fig5_tp_time.png>] [56] [57] [58]
+[54 <./figures/Fig5_tp_time.png>] [55] [56] [57]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[59]) [60]
+[58]) [59]
 Chapter 4.
-(./chapters/4_pathsubpov.tex [61
+(./chapters/4_pathsubpov.tex [60
 
 ]
 Overfull \hbox (3.36084pt too wide) in paragraph at lines 20--21
@@ -766,21 +757,21 @@ Overfull \hbox (3.36084pt too wide) in paragraph at lines 20--21
 some sub-ur-ban ar-eas [][][]Hulchanski[][],
  []
 
-[62] [63] [64] [65] [66] [67] [68] [69]
-<figures/pathways.png, id=1918, 252.945pt x 144.54pt>
+[61] [62] [63] [64] [65] [66] [67] [68]
+<figures/pathways.png, id=1914, 252.945pt x 144.54pt>
 File: figures/pathways.png Graphic file (type png)
 <use figures/pathways.png>
 Package pdftex.def Info: figures/pathways.png  used on input line 121.
 (pdftex.def)             Requested size: 216.81pt x 123.89394pt.
- [70 <./figures/pathways.png>] [71]
-[72] [73] [74] [75] [76] [77]
-<figures/cluster_by_city.png, id=2110, 469.755pt x 180.675pt>
+ [69 <./figures/pathways.png>] [70]
+[71] [72] [73] [74] [75] [76]
+<figures/cluster_by_city.png, id=2106, 469.755pt x 180.675pt>
 File: figures/cluster_by_city.png Graphic file (type png)
 <use figures/cluster_by_city.png>
 Package pdftex.def Info: figures/cluster_by_city.png  used on input line 283.
 (pdftex.def)             Requested size: 361.34999pt x 138.97957pt.
- [78]
-<figures/E_subpov4.png, id=2119, 542.025pt x 542.025pt>
+ [77]
+<figures/E_subpov4.png, id=2115, 542.025pt x 542.025pt>
 File: figures/E_subpov4.png Graphic file (type png)
 <use figures/E_subpov4.png>
 Package pdftex.def Info: figures/E_subpov4.png  used on input line 314.
@@ -790,15 +781,15 @@ Overfull \hbox (36.13498pt too wide) in paragraph at lines 314--315
  [][] 
  []
 
-[79 <./figures/cluster_by_city.png>] [80 <./figures/E_subpov4.png>] [81]
-<figures/transitions_by_year.png, id=2146, 469.755pt x 469.755pt>
+[78 <./figures/cluster_by_city.png>] [79 <./figures/E_subpov4.png>] [80]
+<figures/transitions_by_year.png, id=2142, 469.755pt x 469.755pt>
 File: figures/transitions_by_year.png Graphic file (type png)
 <use figures/transitions_by_year.png>
 Package pdftex.def Info: figures/transitions_by_year.png  used on input line 37
 1.
 (pdftex.def)             Requested size: 354.12256pt x 354.12169pt.
 
-[82] [83 <./figures/transitions_by_year.png>]
+[81] [82 <./figures/transitions_by_year.png>]
 Overfull \hbox (12.87672pt too wide) in paragraph at lines 416--416
 []|\OT1/pplx/m/n/10 Vancouver| 
  []
@@ -843,29 +834,29 @@ Overfull \hbox (4.98723pt too wide) in paragraph at lines 416--416
 []|\OT1/pplx/m/n/10 Quebec| 
  []
 
-[84] [85] [86] [87] [88] [89]
-<figures/E_mini_2.png, id=2227, 469.755pt x 505.89pt>
+[83] [84] [85] [86] [87] [88]
+<figures/E_mini_2.png, id=2223, 469.755pt x 505.89pt>
 File: figures/E_mini_2.png Graphic file (type png)
 <use figures/E_mini_2.png>
 Package pdftex.def Info: figures/E_mini_2.png  used on input line 540.
 (pdftex.def)             Requested size: 433.62pt x 466.976pt.
-<figures/E_mini_1.png, id=2228, 469.755pt x 650.43pt>
+<figures/E_mini_1.png, id=2224, 469.755pt x 650.43pt>
 File: figures/E_mini_1.png Graphic file (type png)
 <use figures/E_mini_1.png>
 Package pdftex.def Info: figures/E_mini_1.png  used on input line 550.
 (pdftex.def)             Requested size: 433.62pt x 600.39774pt.
- [90 <./figures/E_mini_2.png>]
+ [89 <./figures/E_mini_2.png>]
 Overfull \vbox (9.70273pt too high) has occurred while \output is active []
 
 
-[91 <./figures/E_mini_1.png>]
+[90 <./figures/E_mini_1.png>]
 Overfull \hbox (17.11253pt too wide) in paragraph at lines 574--591
  [][] 
  []
 
-) [92]
+) [91]
 Chapter 5.
-(./chapters/5_lowinctra.tex [93
+(./chapters/5_lowinctra.tex [92
 
 ]
 Overfull \hbox (7.59132pt too wide) in paragraph at lines 17--18
@@ -879,55 +870,50 @@ Overfull \hbox (16.38036pt too wide) in paragraph at lines 17--18
 en-tri-fy-ing neigh-bour-hoods or whether
  []
 
-[94] [95] [96] [97] [98] [99] [100]
-<figures/study_area_map.png, id=2502, 505.89pt x 234.8775pt>
+[93] [94] [95] [96] [97] [98] [99]
+<figures/study_area_map.png, id=2498, 505.89pt x 234.8775pt>
 File: figures/study_area_map.png Graphic file (type png)
 <use figures/study_area_map.png>
 Package pdftex.def Info: figures/study_area_map.png  used on input line 51.
 (pdftex.def)             Requested size: 433.62001pt x 201.32768pt.
- [101 <./figures/study_area_map.png>]
+ [100 <./figures/study_area_map.png>]
 Overfull \hbox (13.50626pt too wide) in paragraph at lines 67--68
 []\OT1/pplx/m/n/10.95 Place-based mea-sures of po-ten-tial ac-ces-si-bil-ity, o
 rig-i-nally for-mal-ized by Hansen [][][]Hansen[][],
  []
 
-[102] [103]
-<figures/acces_mapas.png, id=2553, 505.89pt x 469.755pt>
+[101] [102]
+<figures/acces_mapas.png, id=2549, 505.89pt x 469.755pt>
 File: figures/acces_mapas.png Graphic file (type png)
 <use figures/acces_mapas.png>
 Package pdftex.def Info: figures/acces_mapas.png  used on input line 80.
 (pdftex.def)             Requested size: 433.62001pt x 402.65538pt.
- [104 <./figures/acces_mapas.png>]
-<figures/4plots.png, id=2561, 469.755pt x 325.215pt>
+ [103 <./figures/acces_mapas.png>]
+<figures/4plots.png, id=2556, 469.755pt x 325.215pt>
 File: figures/4plots.png Graphic file (type png)
 <use figures/4plots.png>
 Package pdftex.def Info: figures/4plots.png  used on input line 92.
 (pdftex.def)             Requested size: 433.62001pt x 300.19887pt.
- [105 <./figures/4plots.png>]
-[106] [107]
-<figures/2smooth.png, id=2604, 469.755pt x 216.81pt>
+ [104 <./figures/4plots.png>]
+[105] [106]
+<figures/2smooth.png, id=2600, 469.755pt x 216.81pt>
 File: figures/2smooth.png Graphic file (type png)
 <use figures/2smooth.png>
 Package pdftex.def Info: figures/2smooth.png  used on input line 172.
 (pdftex.def)             Requested size: 433.62001pt x 200.13257pt.
- [108] [109 <./figures/2smooth.png>]
-Overfull \hbox (53.95836pt too wide) in paragraph at lines 192--245
- [][] 
- []
-
-[110]
-Overfull \vbox (71.70781pt too high) has occurred while \output is active []
+ [107] [108 <./figures/2smooth.png>] [109]
+Overfull \vbox (18.90497pt too high) has occurred while \output is active []
 
 
-[111] [112]
-<figures/res_acc_inc_bars.png, id=2641, 469.755pt x 216.81pt>
+[110] [111]
+<figures/res_acc_inc_bars.png, id=2637, 469.755pt x 216.81pt>
 File: figures/res_acc_inc_bars.png Graphic file (type png)
 <use figures/res_acc_inc_bars.png>
-Package pdftex.def Info: figures/res_acc_inc_bars.png  used on input line 308.
+Package pdftex.def Info: figures/res_acc_inc_bars.png  used on input line 314.
 (pdftex.def)             Requested size: 433.62001pt x 200.13257pt.
- [113] [114 <./figures/res_acc_inc_bars.png>]) [115] [116]
+ [112 <./figures/res_acc_inc_bars.png>] [113]) [114]
 Chapter 6.
-(./chapters/6_conclusion.tex [117
+(./chapters/6_conclusion.tex [115
 
 ]
 Overfull \hbox (1.17644pt too wide) in paragraph at lines 14--15
@@ -935,22 +921,22 @@ Overfull \hbox (1.17644pt too wide) in paragraph at lines 14--15
 ies an-a-lyz-ing sub-ur-ban-iza-tion of poverty
  []
 
-[118] [119] [120] [121] [122] [123] [124]
+[116] [117] [118] [119] [120] [121] [122]
 Overfull \hbox (6.99106pt too wide) in paragraph at lines 66--67
 []\OT1/pplx/m/n/10.95 These prob-lems also high-light the need in the fu-ture f
 or individual-level linked datasets,
  []
 
-[125] [126] [127]
-<figures/my_idea.png, id=2938, 505.89pt x 289.08pt>
+[123] [124] [125]
+<figures/my_idea.png, id=2930, 505.89pt x 289.08pt>
 File: figures/my_idea.png Graphic file (type png)
 <use figures/my_idea.png>
 Package pdftex.def Info: figures/my_idea.png  used on input line 89.
 (pdftex.def)             Requested size: 433.62pt x 247.7879pt.
- [128]) (./dissertation.bbl [129 <./figures/my_idea.png>]
-[130
+ [126]) (./dissertation.bbl [127 <./figures/my_idea.png>]
+[128
 
-] [131] [132] [133] [134] [135] [136] [137]
+] [129] [130] [131] [132] [133] [134] [135]
 Underfull \hbox (badness 10000) in paragraph at lines 2648--2660
 []\OT1/pplx/m/n/10.95 Government of Canada, S. C.  (2016).  \OT1/pplx/m/it/10.9
 5 2016 Cen-sus of Pop-u-la-tion.
@@ -967,7 +953,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2672--2684
 
  []
 
-[138] [139] [140] [141] [142] [143] [144] [145] [146] [147]
+[136] [137] [138] [139] [140] [141] [142] [143] [144] [145]
 Underfull \hbox (badness 2088) in paragraph at lines 5662--5676
 []\OT1/pplx/m/n/10.95 Statistics Canada, G. o. C.  (2016, Novem-ber).  \OT1/ppl
 x/m/it/10.95 Dic-tio-nary, Cen-sus of Pop-u-la-
@@ -991,20 +977,20 @@ Underfull \hbox (badness 6063) in paragraph at lines 5688--5700
 it/10.95 Prox-im-ity Mea-sures Database.
  []
 
-[148] [149] [150])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 243.
- [151]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 243.
+[146] [147] [148])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
+ [149]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
  (./dissertation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 243.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 243.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
 (rerunfilecheck)             Checksum: 80385E2851CC6BE3311234AC03592B41;3866.
  ) 
 Here is how much of TeX's memory you used:
- 13435 strings out of 483183
- 215681 string characters out of 5966291
- 545548 words of memory out of 5000000
+ 13433 strings out of 483183
+ 215665 string characters out of 5966291
+ 546548 words of memory out of 5000000
  27588 multiletter control sequences out of 15000+600000
  574072 words of font info for 123 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1021,10 +1007,10 @@ usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/palatino/uplri8a.pfb>
-Output written on dissertation.pdf (162 pages, 15642383 bytes).
+Output written on dissertation.pdf (160 pages, 15642886 bytes).
 PDF statistics:
- 3209 PDF objects out of 3580 (max. 8388607)
- 2966 compressed objects within 30 object streams
- 518 named destinations out of 1000 (max. 500000)
+ 3200 PDF objects out of 3580 (max. 8388607)
+ 2959 compressed objects within 30 object streams
+ 516 named destinations out of 1000 (max. 500000)
  539 words of extra memory for PDF output out of 10000 (max. 10000000)
 
