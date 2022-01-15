@@ -1,21 +1,21 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces {Summary statistics of the Toronto CMA from 1991 to 2016}\relax }}{37}{table.caption.10}%
-\contentsline {table}{\numberline {3.2}{\ignorespaces {Summary of Statistics Canada census SES data for the Toronto CMA from 1991 to 2016}\relax }}{39}{table.caption.11}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces {Results of a PCA of neighbourhood level socio-economic status for the Toronto CMA}\relax }}{41}{table.caption.12}%
-\contentsline {table}{\numberline {3.4}{\ignorespaces {Summary statistics of transportation metrics from 1991 to 2016 for the Toronto CMA}\relax }}{45}{table.caption.14}%
-\contentsline {table}{\numberline {3.5}{\ignorespaces {Model results showing how neighborhood change in social and transport disadvantage effects changes in travel behaviour}\relax }}{50}{table.caption.17}%
-\contentsline {table}{\numberline {3.6}{\ignorespaces Correlation among measures of access to jobs by transit for different values of $\beta $\relax }}{58}{table.caption.22}%
-\contentsline {table}{\numberline {3.7}{\ignorespaces Values of $\beta $ fitted from travel survey data for Toronto\relax }}{59}{table.caption.23}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces {Summary statistics of the Toronto CMA from 1991 to 2016}\relax }}{38}{table.caption.10}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces {Summary of Statistics Canada census SES data for the Toronto CMA from 1991 to 2016}\relax }}{40}{table.caption.11}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces {Results of a PCA of neighbourhood level socio-economic status for the Toronto CMA}\relax }}{42}{table.caption.12}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces {Summary statistics of transportation metrics from 1991 to 2016 for the Toronto CMA}\relax }}{46}{table.caption.14}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces {Model results showing how neighborhood change in social and transport disadvantage effects changes in travel behaviour}\relax }}{51}{table.caption.17}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Correlation among measures of access to jobs by transit for different values of $\beta $\relax }}{59}{table.caption.22}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Values of $\beta $ fitted from travel survey data for Toronto\relax }}{60}{table.caption.23}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces {Summary statistics (2016) of the partition of census tracts into two groups}\relax }}{77}{table.caption.27}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces {Mobility pathways, $P(i|j)$, to different states, $j$, averaging across from 2006 to 2016 for residents in all 9 CMAs}\relax }}{81}{table.caption.30}%
-\contentsline {table}{\numberline {4.3}{\ignorespaces {Mobility pathways, $P(i|j)$, to suburban poverty by CMA (averaged from 2006 to 2016)}\relax }}{83}{table.caption.32}%
-\contentsline {table}{\numberline {4.4}{\ignorespaces Propensities among different groups, $i$, of moving into suburban poverty\relax }}{84}{table.caption.33}%
-\contentsline {table}{\numberline {4.5}{\ignorespaces {Destination types and network distances used to measure local accessibility}\relax }}{88}{table.caption.37}%
-\contentsline {table}{\numberline {4.6}{\ignorespaces Average yearly population flows, $\bar {N}_{i,j}$ between different states $i$ and $j$\relax }}{91}{table.caption.42}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces {Summary statistics (2016) of the partition of census tracts into two groups}\relax }}{78}{table.caption.27}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces {Mobility pathways, $P(i|j)$, to different states, $j$, averaging across from 2006 to 2016 for residents in all 9 CMAs}\relax }}{82}{table.caption.30}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces {Mobility pathways, $P(i|j)$, to suburban poverty by CMA (averaged from 2006 to 2016)}\relax }}{84}{table.caption.32}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Propensities among different groups, $i$, of moving into suburban poverty\relax }}{85}{table.caption.33}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces {Destination types and network distances used to measure local accessibility}\relax }}{89}{table.caption.37}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Average yearly population flows, $\bar {N}_{i,j}$ between different states $i$ and $j$\relax }}{92}{table.caption.42}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces {Results of Heckman selection models predicting change in transit accessibility for intra-urban movers}\relax }}{110}{table.caption.49}%
-\contentsline {table}{\numberline {5.2}{\ignorespaces {Coefficients for year for the Heckman selection models presented in Table \ref {table:models}}\relax }}{111}{table.caption.50}%
+\contentsline {table}{\numberline {5.1}{\ignorespaces {Results of Heckman selection models predicting change in transit accessibility for intra-urban movers}\relax }}{111}{table.caption.49}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces {Coefficients for year for the Heckman selection models presented in Table \ref {table:models}}\relax }}{112}{table.caption.50}%
 \addvspace {10\p@ }
