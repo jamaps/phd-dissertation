@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  10 MAY 2022 09:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  10 MAY 2022 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -966,12 +966,12 @@ it/10.95 Prox-im-ity Mea-sures Database.
  []
 
 [147] [148] [149])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
  [150]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
  (./dissertation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
 (rerunfilecheck)             Checksum: BB1E56CAEC22BAE83144624BC30DAB20;3924.
  ) 
@@ -995,7 +995,7 @@ usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/palatino/uplri8a.pfb>
-Output written on dissertation.pdf (161 pages, 15386635 bytes).
+Output written on dissertation.pdf (161 pages, 15386169 bytes).
 PDF statistics:
  3238 PDF objects out of 3580 (max. 8388607)
  2998 compressed objects within 30 object streams
