@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  10 MAY 2022 09:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.21)  10 MAY 2022 09:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -765,13 +765,13 @@ Package pdftex.def Info: figures/pathways.png  used on input line 121.
 (pdftex.def)             Requested size: 216.81pt x 123.89394pt.
  [70 <./figures/pathways.png>] [71]
 [72] [73] [74] [75] [76] [77]
-<figures/cluster_by_city.png, id=2152, 469.755pt x 180.675pt>
+<figures/cluster_by_city.png, id=2154, 469.755pt x 180.675pt>
 File: figures/cluster_by_city.png Graphic file (type png)
 <use figures/cluster_by_city.png>
 Package pdftex.def Info: figures/cluster_by_city.png  used on input line 283.
 (pdftex.def)             Requested size: 361.34999pt x 138.97957pt.
  [78]
-<figures/E_subpov4.png, id=2161, 542.025pt x 542.025pt>
+<figures/E_subpov4.png, id=2163, 542.025pt x 542.025pt>
 File: figures/E_subpov4.png Graphic file (type png)
 <use figures/E_subpov4.png>
 Package pdftex.def Info: figures/E_subpov4.png  used on input line 314.
@@ -782,7 +782,7 @@ Overfull \hbox (36.13498pt too wide) in paragraph at lines 314--315
  []
 
 [79 <./figures/cluster_by_city.png>] [80 <./figures/E_subpov4.png>] [81]
-<figures/transitions_by_year.png, id=2187, 469.755pt x 469.755pt>
+<figures/transitions_by_year.png, id=2189, 469.755pt x 469.755pt>
 File: figures/transitions_by_year.png Graphic file (type png)
 <use figures/transitions_by_year.png>
 Package pdftex.def Info: figures/transitions_by_year.png  used on input line 37
@@ -835,12 +835,12 @@ Overfull \hbox (4.98723pt too wide) in paragraph at lines 416--416
  []
 
 [84] [85] [86] [87] [88] [89]
-<figures/E_mini_2.png, id=2269, 469.755pt x 505.89pt>
+<figures/E_mini_2.png, id=2271, 469.755pt x 505.89pt>
 File: figures/E_mini_2.png Graphic file (type png)
 <use figures/E_mini_2.png>
 Package pdftex.def Info: figures/E_mini_2.png  used on input line 540.
 (pdftex.def)             Requested size: 433.62pt x 466.976pt.
-<figures/E_mini_1.png, id=2270, 469.755pt x 650.43pt>
+<figures/E_mini_1.png, id=2272, 469.755pt x 650.43pt>
 File: figures/E_mini_1.png Graphic file (type png)
 <use figures/E_mini_1.png>
 Package pdftex.def Info: figures/E_mini_1.png  used on input line 550.
@@ -871,7 +871,7 @@ en-tri-fy-ing neigh-bour-hoods or whether
  []
 
 [94] [95] [96] [97] [98] [99] [100]
-<figures/study_area_map.png, id=2539, 505.89pt x 234.8775pt>
+<figures/study_area_map.png, id=2541, 505.89pt x 234.8775pt>
 File: figures/study_area_map.png Graphic file (type png)
 <use figures/study_area_map.png>
 Package pdftex.def Info: figures/study_area_map.png  used on input line 51.
@@ -883,20 +883,20 @@ rig-i-nally for-mal-ized by Hansen [][][]Hansen[][],
  []
 
 [102] [103]
-<figures/acces_mapas.png, id=2591, 505.89pt x 469.755pt>
+<figures/acces_mapas.png, id=2593, 505.89pt x 469.755pt>
 File: figures/acces_mapas.png Graphic file (type png)
 <use figures/acces_mapas.png>
 Package pdftex.def Info: figures/acces_mapas.png  used on input line 80.
 (pdftex.def)             Requested size: 433.62001pt x 402.65538pt.
  [104 <./figures/acces_mapas.png>]
-<figures/4plots.png, id=2599, 469.755pt x 325.215pt>
+<figures/4plots.png, id=2601, 469.755pt x 325.215pt>
 File: figures/4plots.png Graphic file (type png)
 <use figures/4plots.png>
 Package pdftex.def Info: figures/4plots.png  used on input line 92.
 (pdftex.def)             Requested size: 433.62001pt x 300.19887pt.
  [105 <./figures/4plots.png>]
 [106] [107]
-<figures/2smooth.png, id=2641, 469.755pt x 216.81pt>
+<figures/2smooth.png, id=2643, 469.755pt x 216.81pt>
 File: figures/2smooth.png Graphic file (type png)
 <use figures/2smooth.png>
 Package pdftex.def Info: figures/2smooth.png  used on input line 172.
@@ -906,7 +906,7 @@ Overfull \vbox (18.90497pt too high) has occurred while \output is active []
 
 
 [111] [112]
-<figures/res_acc_inc_bars.png, id=2678, 469.755pt x 216.81pt>
+<figures/res_acc_inc_bars.png, id=2680, 469.755pt x 216.81pt>
 File: figures/res_acc_inc_bars.png Graphic file (type png)
 <use figures/res_acc_inc_bars.png>
 Package pdftex.def Info: figures/res_acc_inc_bars.png  used on input line 314.
@@ -966,19 +966,19 @@ it/10.95 Prox-im-ity Mea-sures Database.
  []
 
 [147] [148] [149])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 219.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
  [150]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 219.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
  (./dissertation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 219.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 219.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 217.
 Package rerunfilecheck Info: File `dissertation.out' has not changed.
 (rerunfilecheck)             Checksum: BB1E56CAEC22BAE83144624BC30DAB20;3924.
  ) 
 Here is how much of TeX's memory you used:
  13428 strings out of 483183
  215539 string characters out of 5966291
- 547508 words of memory out of 5000000
+ 546508 words of memory out of 5000000
  27583 multiletter control sequences out of 15000+600000
  574072 words of font info for 123 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -995,10 +995,10 @@ usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/palatino/uplri8a.pfb>
-Output written on dissertation.pdf (161 pages, 15386647 bytes).
+Output written on dissertation.pdf (161 pages, 15386635 bytes).
 PDF statistics:
- 3236 PDF objects out of 3580 (max. 8388607)
- 2996 compressed objects within 30 object streams
+ 3238 PDF objects out of 3580 (max. 8388607)
+ 2998 compressed objects within 30 object streams
  517 named destinations out of 1000 (max. 500000)
  542 words of extra memory for PDF output out of 10000 (max. 10000000)
 
